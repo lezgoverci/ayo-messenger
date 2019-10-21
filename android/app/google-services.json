@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413054693514",
+    "firebase_url": "https://entero-ayo-messenger.firebaseio.com",
+    "project_id": "entero-ayo-messenger",
+    "storage_bucket": "entero-ayo-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413054693514:android:ea63af371b022d168f3d73",
+        "android_client_info": {
+          "package_name": "com.entero.ayomessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413054693514-e53dvejaitqf1af30kfio3rhdks0g98p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entero.ayomessenger",
+            "certificate_hash": "eea0fbb78dea667ff738a4230dbd7ea9cebcd195"
+          }
+        },
+        {
+          "client_id": "413054693514-3jftsg7o8j0mgqf93tfl1tp6596aaovo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2LTkmKbFjv0LRTMIdcNKtCLlpt_6r4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413054693514-3jftsg7o8j0mgqf93tfl1tp6596aaovo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
